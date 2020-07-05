@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Site web",
   "main": "src/index.html",
-  "scripts": {},
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
   "keywords": [],
   "author": "Andoniaina Najus",
   "license": "ISC",
