@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: $font-size-root;
+}
+
+body {
+  margin: 0;
+  color: $color;
+  background-color: $bg-color;
+}
+
+
+
+button {
+    color: $color;
+    background-color: $bg-color;
+}
