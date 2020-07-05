@@ -1,0 +1,12 @@
+{
+  "name": "gourmet-site-test",
+  "version": "1.0.0",
+  "description": "Integration simple site web",
+  "main": "src/index.html",
+  "scripts": {
+    
+  },
+  "keywords": [],
+  "author": "Ando",
+  "license": "ISC"
+}
