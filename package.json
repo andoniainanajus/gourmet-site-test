@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "Site web",
   "main": "src/index.html",
-  "scripts": {
-
-  },
+  "scripts": {},
   "keywords": [],
   "author": "Andoniaina Najus",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
